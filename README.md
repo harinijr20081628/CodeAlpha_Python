@@ -55,3 +55,4 @@ B.E. Artificial Intelligence and Data Science, AVS Engineering College
 Internship
 
 CodeAlpha Python Programming Internship
+
